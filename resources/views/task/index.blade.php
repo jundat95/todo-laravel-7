@@ -7,7 +7,7 @@
         <link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-    <h1>List Tasks</h1>
+    <h1>List Tasks 1</h1>
     <ul class="list-group">
         @foreach($tasks as $task)
         <li class="list-group-item">
